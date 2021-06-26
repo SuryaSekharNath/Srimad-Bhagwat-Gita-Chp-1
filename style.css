@@ -1,0 +1,45 @@
+body
+{
+    text-align: center;
+}
+.container
+{
+    margin-top: 50px;
+    background-color: green;
+}
+.chapter_li
+{
+    background-color: yellow;
+    border-radius: 20px;
+    border-color: black;
+}
+.chapter_li h4
+{
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+.chapter_li img
+{
+    margin-top: 10px;
+    border-radius: 25px;
+}
+.chapter_li h5
+{
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.chapter_li p
+{
+    margin-top: 10px;
+}
+.chapter_li hr
+{
+    visibility:hidden;
+}
+.back
+{
+    background-color: deepskyblue;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
